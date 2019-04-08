@@ -6,7 +6,7 @@ tag: audio replacement
 -->headerImage: true
 projects: true
 hidden: true <!-- don't count this post in blog pagination -->
-description: "Projects"
+description: "Audio Replacement Projects"
 category: project
 author: noahkeller
 externalLink: false
