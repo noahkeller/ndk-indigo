@@ -2,8 +2,9 @@
 title: "Audio Replacement Projects"
 layout: page
 tag: audio replacement
-<!--image: /assets/images/godofwar.jpg (can also put url)
--->headerImage: true
+<!--image: /assets/images/godofwar.jpg (can also put url) -->
+showHeader: true
+headerImage: true
 projects: true
 hidden: true <!-- don't count this post in blog pagination -->
 description: "Audio Replacement Projects"
