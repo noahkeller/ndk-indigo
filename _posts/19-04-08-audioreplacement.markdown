@@ -1,6 +1,6 @@
 ---
 title: "Audio Replacement Projects"
-layout: post
+layout: page
 tag: audio replacement
 <!--image: /assets/images/godofwar.jpg (can also put url)
 -->headerImage: true
