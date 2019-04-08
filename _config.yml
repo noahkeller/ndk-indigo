@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: #https://google.com/?q=my+resume
 
-url: https://noahkeller.github.io
+url: noahdkeller.com #https://noahkeller.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,7 +35,7 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: noah.keller
-twitter: noahdkeller
+# twitter: noahdkeller
 # google: 
 # instagram: noahdkeller
 # pinterest: 
