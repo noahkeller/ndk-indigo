@@ -3,8 +3,8 @@ title: "God of War - Audio Replacement"
 layout: post
 <!-- date: 2019-04-08 15:25
 -->tag: audio replacement
-image: /assets/images/godofwar.jpg
-headerImage: true
+<!--image: /assets/images/godofwar.jpg
+-->headerImage: true
 projects: true
 hidden: true <!-- don't count this post in blog pagination -->
 description: "Audio Replacement - God of War"
