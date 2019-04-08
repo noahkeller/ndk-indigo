@@ -10,7 +10,7 @@ hidden: true <!-- don't count this post in blog pagination -->
 description: "Audio Replacement - God of War"
 category: project
 author: noahkeller
-externalLink: true
+externalLink: false
 ---
 
 {% highlight html %}  <iframe width="560" height="310" src="https://player.vimeo.com/video/329184358" frameborder="0" allowfullscreen></iframe> {% endhighlight %} <iframe width="560" height="310" src="https://player.vimeo.com/video/329184358" frameborder="0" allowfullscreen></iframe>
