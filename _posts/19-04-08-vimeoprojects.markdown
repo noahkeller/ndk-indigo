@@ -1,6 +1,6 @@
 ---
 title: "God of War - Audio Replacement"
-layout: default
+layout: page
 tag: audio replacement
 <!--image: /assets/images/godofwar.jpg
 -->headerImage: true
