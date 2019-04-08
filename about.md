@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Noah Keller]({{ site.url }}/{{ site.picture }})
+
 
 <p>I am an experienced Audio Engineer and Sound Designer with a demonstrated history of working in professional environments.</p>
 
