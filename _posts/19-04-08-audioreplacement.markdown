@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Audio Replacement Projects"
 layout: page
 tag: audio replacement
 <!--image: /assets/images/godofwar.jpg
