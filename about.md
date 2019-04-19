@@ -3,6 +3,8 @@ title: About
 layout: page
 ---
 
+---
+
 <h2>About Me</h2>
 <p>I am an experienced Audio Engineer and Sound Designer with a demonstrated history of working in professional environments.</p>
 
