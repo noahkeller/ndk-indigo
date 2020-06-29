@@ -1,7 +1,7 @@
 # main text of home
 name: Noah Keller
-bio: Audio Engineer, Sound Designer
-
+# bio: 
+ 
 # twitter summary info
 description: Noah Keller
 
@@ -49,17 +49,17 @@ linkedin: noahkeller
 # quora: userquora
 # reddit: nodakel
 # medium: medium
-vimeo: noahkeller
+# vimeo: noahkeller
 # lanyrd: mylanyrd
 email: me@noahdkeller.com
 
 authors:
     noahkeller:
         name: Noah Keller
-        bio: Audio Engineer, Sound Designer
+#        bio: Audio Engineer, Sound Designer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: noahdkeller
+#        twitter: noahdkeller
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
